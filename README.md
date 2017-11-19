@@ -8,7 +8,7 @@
     "name": "web",
     "active": true,
     "events": [
-      "push"
+      "receive"
     ],
     "config": {
       "content_type": "json",
@@ -23,7 +23,7 @@
     "last_response": {
       "code": null,
       "status": "unused",
-      "message": STUPID ASS
+      "message": null
     }
   },
   "repository": {
