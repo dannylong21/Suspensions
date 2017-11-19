@@ -23,7 +23,7 @@
     "last_response": {
       "code": null,
       "status": "unused",
-      "message": "STUPID ASS"
+      "message": STUPID ASS
     }
   },
   "repository": {
